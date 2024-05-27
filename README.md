@@ -18,63 +18,33 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming languages
 
-<span>
-  <img src="https://skillicons.dev/icons?i=javascript" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=typescript" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=python" />
-</span>
+<code><img src="https://skillicons.dev/icons?i=javascript" /></code>
+<code><img src="https://skillicons.dev/icons?i=typescript" /></code>
+<code><img src="https://skillicons.dev/icons?i=python" /></code>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px>  </picture> Frontend Development
 
-<span>
-  <img src="https://skillicons.dev/icons?i=html" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=css" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=react" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=astro" />
-</span>
+<code><img src="https://skillicons.dev/icons?i=html" /></code>
+<code><img src="https://skillicons.dev/icons?i=css" /></code>
+<code><img src="https://skillicons.dev/icons?i=react" /></code>
+<code><img src="https://skillicons.dev/icons?i=astro" /></code>
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE5Y2RvMXd6OW1sbzZrbzB5bXpqcGhjaTU5d282Z2liZDE4ejJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif?raw=true" width = 25px>  </picture> Backend Development
 
-<span>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=express" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=npm" />
-</span>
+<code><img src="https://skillicons.dev/icons?i=nodejs" /></code>
+<code><img src="https://skillicons.dev/icons?i=express" /></code>
+<code><img src="https://skillicons.dev/icons?i=npm" /></code>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Software & Tools
 
-<span>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</span>
-<span>
-  <img src="https://skillicons.dev/icons?i=markdown" />
-</span>
+<code><img src="https://skillicons.dev/icons?i=bootstrap" /></code>
+<code><img src="https://skillicons.dev/icons?i=tailwind" /></code>
+<code><img src="https://skillicons.dev/icons?i=mysql" /></code>
+<code><img src="https://skillicons.dev/icons?i=markdown" /></code>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
-<span>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</span>
+<code><img src="https://skillicons.dev/icons?i=vscode" /></code>
 
 <!-- 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
