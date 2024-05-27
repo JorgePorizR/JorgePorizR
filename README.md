@@ -7,7 +7,7 @@ const Me = {
   db: ['MySql', 'PostgreSql'],
 }
 ```
-You can contact me 📱:}
+You can contact me 📱:
 -  [Email](jporizrojas@gmail.com)
 
 <!--
