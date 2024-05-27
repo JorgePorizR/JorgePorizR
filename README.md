@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi, I´m Jorge 👋🧑‍💻
+
+```js
+const Me = {
+  code: ['Javascript', 'Typescript', 'Python', 'HTML', 'CSS'],
+  tools: ['React', 'Astro', 'Node', 'Bootstrap', 'Tailwind'],
+  db: ['MySql', 'PostgreSql'],
+}
+```
+You can contact me 📱:}
+-  [Email](jporizrojas@gmail.com)
 
 <!--
 **JorgePorizR/JorgePorizR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
