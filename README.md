@@ -14,6 +14,7 @@
 
 <br>
 
+<!-- find the icons used in this READMI here -> https://github.com/tandpfun/skill-icons -->
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming languages
@@ -53,17 +54,6 @@
 -->
 
 <br>
-
-
-<!--
-```js
-const Me = {
-  code: ['Javascript', 'Typescript', 'Python', 'HTML', 'CSS'],
-  tools: ['React', 'Astro', 'Node', 'Bootstrap', 'Tailwind'],
-  db: ['MySql', 'PostgreSql'],
-}
-```
--->
 
 <!--
 **JorgePorizR/JorgePorizR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
