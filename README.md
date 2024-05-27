@@ -1,5 +1,7 @@
 ### Hi, I´m Jorge 👋🧑‍💻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=800&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;I'm+Frontend+and+Backend+developer+)](https://git.io/typing-svg)
+
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
