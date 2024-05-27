@@ -41,7 +41,6 @@
 <code><img src="https://skillicons.dev/icons?i=bootstrap" /></code>
 <code><img src="https://skillicons.dev/icons?i=tailwind" /></code>
 <code><img src="https://skillicons.dev/icons?i=mysql" /></code>
-<code><img src="https://skillicons.dev/icons?i=markdown" /></code>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
