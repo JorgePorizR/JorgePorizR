@@ -8,7 +8,7 @@
 
 - :school: I am a `Student of Systems Engineer` at [NUR University](https://www.nur.edu/)
 - :technologist: **Currently learning new technologies about** `Frontend Development` **&** `Backend Development`
-- :boom: You can visit my [PORTFOLIO WEB]() to know more about my projects
+- :boom: You can visit my [PORTFOLIO WEB](https://portfolio-jorgeporizrojas.netlify.app/) to know more about my projects
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=Email+Here+=>&amp;message=Jorge&amp;color=EA4335&amp;style=flat-square)](mailto:jporizrojas@gmail.com)
 - :nerd_face: If it works `"do not touch it"`
 
